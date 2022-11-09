@@ -1,6 +1,5 @@
 # Hamburgueria
-#Json-server
-#usei o postman para fazer o POST, GET, PUT E DELETE.
+#Json-server e usei o postman para fazer o POST, GET, PUT E DELETE.
 
 Meu Json-server  é capaz de inserir 
 (POST), acessar os dados (GET), Atualizar um 
