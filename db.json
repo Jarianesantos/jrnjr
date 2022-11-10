@@ -5,43 +5,50 @@
         "id": 1,
         "nome": "Hambúrguer",
         "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
-        "preco": 8.5,
-        "categoria_id": 1
+        "preco": 15.5,
+        "categoria_id": 120,
+        "imagem":"https://s2.glbimg.com/MAWf6GSmHzt9xu9iXWKQhwBiPMo=/0x0:5078x2833/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/p/C/n3R1mfQCe0hNFjedQ6Ow/hamburguer-e-sempre-uma-otima-opcao.jpg"
       },
       {
         "id": 2,
         "nome": "X-Búrguer",
         "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-        "preco": 10.5,
-        "categoria_id": 1
+        "preco": 20.5,
+        "categoria_id": 120,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZCaW-SRkIRpAFm8GIX_hapXROdEFy374EA&usqp=CAU"
       },
       {
         "id": 3,
-        "nome": "X-Bacon",
+        "nome": "X-calabresa",
         "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
-        "preco": 12.5,
-        "categoria_id": 1
+        "preco": 30.5,
+        "categoria_id": 120,
+        "imagem": "https://burger.eriklima.me/wp-content/uploads/2021/03/X-Calabresa.jpg"
+        
       },
       {
         "id": 4,
-        "nome": "X-Tudo",
+        "nome": "X-Tudão",
         "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
-        "preco": 14.5,
-        "categoria_id": 1
+        "preco": 40.5,
+        "categoria_id": 120,
+        "imagem": "https://instadelivery-public.nyc3.cdn.digitaloceanspaces.com/itens/Tj8SKa1ZUkQ8scDHZrhOv8yw6ykOCF7mHolJWQTe.jpg"
       },
       {
         "id": 5,
-        "nome": "Coca cola 350ml",
+        "nome": "Coca cola 600 ml",
         "descricao": "",
-        "preco": 5.5,
-        "categoria_id": 2
+        "preco": 10.5,
+        "categoria_id": 121,
+        "imagem": "https://www.kerokery.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/k/kkr-_177-sku-860___bebidas__coca-cola-600ml.jpg"
       },
       {
         "id": 6,
-        "nome": "Coca cola 600ml",
+        "nome": "Coca cola 2 litros",
         "descricao": "",
-        "preco": 7.5,
-        "categoria_id": 2
+        "preco": 20.5,
+        "categoria_id": 121,
+        "imagem": "https://santahelenacenter.com.br/wp-content/uploads/fotos-produtos/4171.jpg"
       }
     ],
     "categorias": [
@@ -52,8 +59,26 @@
       {
         "id": 2,
         "nome": "Refrigerantes"
+      },
+      {
+        "id": 3,
+        "nome": "local"
       }
-    ]
-  }
-   
+    ],
+  
+  "local": [
+    {
+      "id": 4,
+      "categoria_id": 3,
+      "nome rua": "matura"
+      
+    },
+    {
+      "id": 5,
+      "categoria_id": 3,
+      "bairro": "acari"
+      
+    }
+  ]
+}
    
