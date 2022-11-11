@@ -1,9 +1,9 @@
-# Projeto individualdo modulo 3
+# Projeto individual do modulo 3
 
 # Hamburgueria
 começei com a configuração do json-server com os seguintes comandos, npm i -g json-serve, criei uma pasta, um arquivo db.json e fiz o comando npm --watch json-server
 #Json-server e usei o postman para fazer o POST, GET, PUT E DELETE.
-#inserir as imagem 
+#inserir as imagem no db.json
 
 Meu Json-server  é capaz de inserir 
 (POST), acessar os dados (GET), Atualizar um 
