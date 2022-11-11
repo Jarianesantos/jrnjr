@@ -7,7 +7,7 @@ começei com a configuração do json-server com os seguintes comandos, npm i -g
 # fiz o teste no postman 
 Meu Json-server  é capaz de inserir 
 (POST), acessar os dados (GET), Atualizar um 
-dado (PUT) e excluir um dado (DELETE) nas com 
+dado (PUT) e excluir um dado (DELETE) nas
 3 rotas.
 
 # link da API do Render
